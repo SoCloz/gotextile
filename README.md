@@ -3,7 +3,7 @@ gotextile
 
 Golang textile formatter
 
-See http://txstyle.org/
+See https://textile-lang.com/
 
 TODO
 ----
